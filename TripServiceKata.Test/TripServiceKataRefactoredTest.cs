@@ -20,7 +20,7 @@ namespace TripServiceKata.Test
             }
         }
 
-        private static TestTripService createTripService()
+        private static TestTripService CreateTripService()
         {
             return new TestTripService();
         }
@@ -29,7 +29,7 @@ namespace TripServiceKata.Test
         [ExpectedException(typeof(UserNotLoggedInException), "null logged in user inappropriately allowed")]
         public void ShouldThrowExceptionWhenUserIsNotLoggedIn()
         {
-            var tripService = TripServiceKataRefactoredTest.createTripService();
+            var tripService = TripServiceKataRefactoredTest.CreateTripService();
             tripService.GetTripsOfFriend(TripServiceKataRefactoredTest.NOT_LOGGED_USER, new User.User());
         }
 
@@ -40,12 +40,12 @@ namespace TripServiceKata.Test
             var givenUser = new User.User();
             Trip.Trip[] givenUsersTrips = { new Trip.Trip(), new Trip.Trip(), new Trip.Trip() };
 
-            foreach (Trip.Trip trip in givenUsersTrips)
+            foreach (var trip in givenUsersTrips)
             {
                 givenUser.AddTrip(trip);
             }
 
-            List<Trip.Trip> trips = TripServiceKataRefactoredTest.createTripService().GetTripsOfFriend(loggedInUser, givenUser);
+            List<Trip.Trip> trips = TripServiceKataRefactoredTest.CreateTripService().GetTripsOfFriend(loggedInUser, givenUser);
             Assert.AreEqual(0, trips.Count);
         }
 
@@ -62,7 +62,7 @@ namespace TripServiceKata.Test
                 givenUser.AddTrip(trip);
             }
 
-            List<Trip.Trip> trips = TripServiceKataRefactoredTest.createTripService().GetTripsOfFriend(loggedInUser, givenUser);
+            List<Trip.Trip> trips = TripServiceKataRefactoredTest.CreateTripService().GetTripsOfFriend(loggedInUser, givenUser);
             Assert.AreEqual(3, trips.Count);
         }
     }
