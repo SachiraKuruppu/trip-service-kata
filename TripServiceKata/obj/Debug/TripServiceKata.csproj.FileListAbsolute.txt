@@ -1,0 +1,6 @@
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata\bin\Debug\TripServiceKata.dll
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata\bin\Debug\TripServiceKata.pdb
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata\obj\Debug\TripServiceKata.csproj.AssemblyReference.cache
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata\obj\Debug\TripServiceKata.csproj.CoreCompileInputs.cache
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata\obj\Debug\TripServiceKata.dll
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata\obj\Debug\TripServiceKata.pdb

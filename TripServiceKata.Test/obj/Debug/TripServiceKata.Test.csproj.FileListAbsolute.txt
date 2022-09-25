@@ -1,0 +1,17 @@
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\bin\Debug\TripServiceKata.Test.dll
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\bin\Debug\TripServiceKata.Test.pdb
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\bin\Debug\TripServiceKata.dll
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\bin\Debug\TripServiceKata.pdb
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\obj\Debug\TripServiceKata.Test.csproj.AssemblyReference.cache
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\obj\Debug\TripServiceKata.Test.csproj.CoreCompileInputs.cache
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\obj\Debug\TripServiceKata.Test.csproj.CopyComplete
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\obj\Debug\TripServiceKata.Test.dll
+C:\Users\RSach\SoftwareProjects\trip-service-kata\TripServiceKata.Test\obj\Debug\TripServiceKata.Test.pdb
