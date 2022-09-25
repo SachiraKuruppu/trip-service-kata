@@ -57,7 +57,7 @@ namespace TripServiceKata.Test
             Trip.Trip[] givenUsersTrips = { new Trip.Trip(), new Trip.Trip(), new Trip.Trip() };
 
             givenUser.AddFriend(loggedInUser);
-            foreach (Trip.Trip trip in givenUsersTrips)
+            foreach (var trip in givenUsersTrips)
             {
                 givenUser.AddTrip(trip);
             }
